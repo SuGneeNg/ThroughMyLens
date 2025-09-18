@@ -10,6 +10,8 @@ To understand the data, we found that there are many observations of the long ta
 
 ![Alt text](longtailmacaques.jpeg)
 
+![Alt text](TotalRainfall.jpeg)
+
 
 
 
