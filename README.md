@@ -13,6 +13,7 @@ To understand the data, we found that there are many observations of the long ta
 The total rainfall of 2024 from NEA shows that there is a very low point, and rising from February to March and July to August 2024. This suggests that dryer weather from March 2024 to April 2024, Jul to August 2024 helps to bring people out to walk and do some bird survey tasks
 ![Alt text](TotalRainFall.jpeg)
 
+Doing a scatterplot of rainfall and observation of macaques, a line showing negative correlation between rainfall and observations is shown. This means that when there is more rainfall, there are less observations, when there is less rainfall, there are more observations. Meaning to say that when it rains a lot, less observations are being made, possibly we can infer that less people are making a trek in the park and possibly the macaques are hiding from the rain.
 ![Alt text](Correlation.jpg)
 
 
